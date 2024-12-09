@@ -262,10 +262,7 @@ export const events: Event[] = [
         "date": "July 14, 1989",
         "eventDescription": "Tim Burton's Batman premieres, with Michael Keaton as Batman and Jack Nicholson as the Joker."
     },
-    {
-        "date": "October 16, 1989",
-        "eventDescription": "Wayne Gretzky breaks the NHL’s all-time scoring record."
-    },
+    
     {
         "date": "November 9, 1989",
         "eventDescription": "The Berlin Wall falls, marking the beginning of German reunification."
@@ -302,10 +299,7 @@ export const events: Event[] = [
         "date": "October 3, 1990",
         "eventDescription": "Germany is reunified."
     },
-    {
-        "date": "November 12, 1990",
-        "eventDescription": "The first known web browser, WorldWideWeb, is developed."
-    },
+
     {
         "date": "November 29, 1990",
         "eventDescription": "Margaret Thatcher resigns as Prime Minister of the United Kingdom."
@@ -326,10 +320,7 @@ export const events: Event[] = [
         "date": "June 17, 1991",
         "eventDescription": "South Africa repeals its apartheid laws."
     },
-    {
-        "date": "July 31, 1991",
-        "eventDescription": "START I is signed by the United States and the Soviet Union."
-    },
+   
     {
         "date": "August 6, 1991",
         "eventDescription": "The first website goes live, created by Tim Berners-Lee."
@@ -350,10 +341,7 @@ export const events: Event[] = [
         "date": "November 24, 1991",
         "eventDescription": "Freddie Mercury dies of AIDS-related illness."
     },
-    {
-        "date": "December 26, 1991",
-        "eventDescription": "The Soviet Union is officially dissolved."
-    },
+   
     {
         "date": "February 7, 1992",
         "eventDescription": "The Maastricht Treaty is signed, forming the European Union."
@@ -374,14 +362,8 @@ export const events: Event[] = [
         "date": "July 25, 1992",
         "eventDescription": "The Summer Olympics open in Barcelona, Spain."
     },
-    {
-        "date": "August 24, 1992",
-        "eventDescription": "Hurricane Andrew strikes Florida, causing widespread destruction."
-    },
-    {
-        "date": "September 12, 1992",
-        "eventDescription": "Dr. Mae Jemison becomes the first Black woman to travel into space."
-    },
+   
+
     {
         "date": "October 4, 1992",
         "eventDescription": "Cartoon Network launches in the United States."
@@ -410,10 +392,7 @@ export const events: Event[] = [
         "date": "May 24, 1993",
         "eventDescription": "Eritrea gains independence from Ethiopia after a 30-year war."
     },
-    {
-        "date": "June 23, 1993",
-        "eventDescription": "Lorena Bobbitt cuts off her husband's penis, sparking worldwide media coverage."
-    },
+
     {
         "date": "July 16, 1993",
         "eventDescription": "The movie Jurassic Park is released in the UK."
@@ -426,26 +405,17 @@ export const events: Event[] = [
         "date": "October 31, 1993",
         "eventDescription": "River Phoenix dies of a drug overdose outside The Viper Room in Hollywood."
     },
-    {
-        "date": "November 12, 1993",
-        "eventDescription": "Michael Jackson's Dangerous World Tour ends."
-    },
+
     {
         "date": "December 15, 1993",
         "eventDescription": "Schindler's List is released in theaters."
     },
-    {
-        "date": "January 1, 1994",
-        "eventDescription": "The North American Free Trade Agreement (NAFTA) goes into effect."
-    },
+
     {
         "date": "February 3, 1994",
         "eventDescription": "The Space Shuttle Discovery completes its first flight."
     },
-    {
-        "date": "April 6, 1994",
-        "eventDescription": "The Rwandan genocide begins."
-    },
+   
     {
         "date": "June 17, 1994",
         "eventDescription": "O.J. Simpson's infamous Bronco chase occurs."
@@ -542,10 +512,7 @@ export const events: Event[] = [
         "date": "November 19, 1996",
         "eventDescription": "The first DVD players are released in Japan."
     },
-    {
-        "date": "December 25, 1996",
-        "eventDescription": "JonBenét Ramsey is found murdered in her family's home in Boulder, Colorado."
-    },
+  
     {
         "date": "December 30, 1996",
         "eventDescription": "The Spice Girls' debut single 'Wannabe' becomes a global hit."
@@ -574,10 +541,7 @@ export const events: Event[] = [
         "date": "September 11, 1997",
         "eventDescription": "Google.com is registered as a domain."
     },
-    {
-        "date": "October 15, 1997",
-        "eventDescription": "The Cassini-Huygens space probe is launched to study Saturn."
-    },
+
     {
         "date": "November 19, 1997",
         "eventDescription": "James Cameron's Titanic premieres in Tokyo, Japan."
@@ -750,18 +714,12 @@ export const events: Event[] = [
         "date": "December 19, 2001",
         "eventDescription": "The film The Lord of the Rings: The Fellowship of the Ring premieres."
     },
-    {
-        "date": "January 1, 2002",
-        "eventDescription": "The Euro becomes the official currency in 12 European Union countries."
-    },
+ 
     {
         "date": "February 8, 2002",
         "eventDescription": "The Winter Olympics open in Salt Lake City, Utah."
     },
-    {
-        "date": "April 25, 2002",
-        "eventDescription": "Lisa 'Left Eye' Lopes of TLC dies in a car crash."
-    },
+  
     {
         "date": "May 25, 2002",
         "eventDescription": "The film Spider-Man, starring Tobey Maguire, is released."
@@ -834,10 +792,7 @@ export const events: Event[] = [
         "date": "February 4, 2004",
         "eventDescription": "Facebook is founded by Mark Zuckerberg and his Harvard roommates."
     },
-    {
-        "date": "March 11, 2004",
-        "eventDescription": "Madrid train bombings kill 193 people in Spain."
-    },
+  
     {
         "date": "April 24, 2004",
         "eventDescription": "The expansion of the European Union adds 10 new member states."
@@ -958,10 +913,8 @@ export const events: Event[] = [
         "date": "March 23, 2007",
         "eventDescription": "Iran captures 15 British Navy personnel, sparking an international dispute."
     },
-    {
-        "date": "April 16, 2007",
-        "eventDescription": "The Virginia Tech shooting occurs, leaving 33 people dead."
-    },
+  
+    
     {
         "date": "June 29, 2007",
         "eventDescription": "The first iPhone is released in the United States."
@@ -970,10 +923,8 @@ export const events: Event[] = [
         "date": "July 21, 2007",
         "eventDescription": "The final Harry Potter book, Harry Potter and the Deathly Hallows, is published."
     },
-    {
-        "date": "August 15, 2007",
-        "eventDescription": "A magnitude 8.0 earthquake hits Peru, killing over 500 people."
-    },
+   
+    
     {
         "date": "September 14, 2007",
         "eventDescription": "Halo 3 is released for Xbox 360."
@@ -1002,14 +953,10 @@ export const events: Event[] = [
         "date": "March 14, 2008",
         "eventDescription": "Protests erupt in Tibet against Chinese rule."
     },
-    {
-        "date": "May 2, 2008",
-        "eventDescription": "Cyclone Nargis devastates Myanmar, killing over 138,000 people."
-    },
-    {
-        "date": "May 12, 2008",
-        "eventDescription": "A massive earthquake strikes Sichuan, China, killing over 80,000."
-    },
+    
+    
+ 
+    
     {
         "date": "August 8, 2008",
         "eventDescription": "The Summer Olympics open in Beijing, China."
@@ -1190,10 +1137,8 @@ export const events: Event[] = [
         "date": "December 14, 2012",
         "eventDescription": "The Sandy Hook Elementary School shooting occurs in Connecticut."
     },
-    {
-        "date": "February 15, 2013",
-        "eventDescription": "A meteor explodes over Chelyabinsk, Russia, injuring over 1,000 people."
-    },
+   
+    
     {
         "date": "March 13, 2013",
         "eventDescription": "Pope Francis is elected as the 266th Pope."
@@ -1206,10 +1151,8 @@ export const events: Event[] = [
         "date": "June 6, 2013",
         "eventDescription": "Edward Snowden reveals classified NSA surveillance programs."
     },
-    {
-        "date": "July 13, 2013",
-        "eventDescription": "George Zimmerman is acquitted in the shooting of Trayvon Martin."
-    },
+    
+    
     {
         "date": "July 22, 2013",
         "eventDescription": "Prince George, son of Prince William and Catherine, is born."
@@ -1286,18 +1229,8 @@ export const events: Event[] = [
         "date": "June 26, 2015",
         "eventDescription": "The U.S. Supreme Court legalizes same-sex marriage nationwide."
     },
-    {
-        "date": "July 14, 2015",
-        "eventDescription": "NASA's New Horizons spacecraft conducts a flyby of Pluto."
-    },
-    {
-        "date": "August 5, 2015",
-        "eventDescription": "The EPA accidentally releases toxic waste into the Animas River."
-    },
-    {
-        "date": "September 28, 2015",
-        "eventDescription": "NASA announces the discovery of liquid water on Mars."
-    },
+  
+    
     {
         "date": "October 21, 2015",
         "eventDescription": "Back to the Future Day is celebrated as the date Marty McFly traveled to in the film."
@@ -1346,10 +1279,8 @@ export const events: Event[] = [
         "date": "November 8, 2016",
         "eventDescription": "Donald Trump is elected as the 45th President of the United States."
     },
-    {
-        "date": "December 19, 2016",
-        "eventDescription": "A truck attack at a Christmas market in Berlin kills 12 people."
-    },
+  
+    
     {
         "date": "January 20, 2017",
         "eventDescription": "Donald Trump is inaugurated as the 45th President of the United States."
@@ -1366,10 +1297,8 @@ export const events: Event[] = [
         "date": "June 14, 2017",
         "eventDescription": "The Grenfell Tower fire in London kills 72 people."
     },
-    {
-        "date": "August 21, 2017",
-        "eventDescription": "A total solar eclipse is visible across the United States."
-    },
+    
+    
     {
         "date": "September 3, 2017",
         "eventDescription": "North Korea conducts its most powerful nuclear test."
