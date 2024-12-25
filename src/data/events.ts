@@ -1,7 +1,6 @@
 import { Event } from '../types/Event';
 
-export const events: Event[] = [
-
+export const events: Event[] =[
     {
         "date": "January 1, 1983",
         "eventDescription": "The first mobile phone call is made in the UK."
@@ -10,7 +9,6 @@ export const events: Event[] = [
         "date": "March 1, 1983",
         "eventDescription": "Swatch introduces its first watch."
     },
-   
     {
         "date": "May 25, 1983",
         "eventDescription": "Star Wars: Return of the Jedi is released."
@@ -19,12 +17,10 @@ export const events: Event[] = [
         "date": "June 15, 1983",
         "eventDescription": "Blackadder debuts on British television."
     },
-   
     {
         "date": "January 24, 1984",
         "eventDescription": "The Apple Macintosh computer is launched."
     },
-   
     {
         "date": "April 21, 1984",
         "eventDescription": "The UK introduces the £1 coin."
@@ -33,29 +29,26 @@ export const events: Event[] = [
         "date": "June 6, 1984",
         "eventDescription": "Tetris is developed in the Soviet Union."
     },
-  
     {
         "date": "November 25, 1984",
         "eventDescription": "Band Aid records Do They Know It’s Christmas?."
     },
-      {
+    {
         "date": "February 19, 1985",
         "eventDescription": "The first episode of EastEnders airs."
     },
-     {
+    {
         "date": "July 13, 1985",
         "eventDescription": "Live Aid concerts are held."
     },
-     {
+    {
         "date": "April 26, 1986",
         "eventDescription": "The Chernobyl nuclear disaster occurs in the Soviet Union."
     },
-     {
+    {
         "date": "June 22, 1986",
         "eventDescription": "Diego Maradona's 'Hand of God' goal is scored during the FIFA World Cup."
     },
-  
-  [
     {
         "date": "October 5, 1962",
         "eventDescription": "Sean Connery makes his debut as James Bond in Dr. No."
@@ -416,7 +409,4 @@ export const events: Event[] = [
         "date": "September 13, 2020",
         "eventDescription": "The tenth series of The Great British Bake Off premieres on Channel 4."
     }
-
-   
 ]
-  
